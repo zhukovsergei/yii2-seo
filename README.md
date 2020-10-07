@@ -10,13 +10,13 @@ Yii2 Seo
 Запустить
 
 ```
-php composer.phar require --prefer-dist aquy/yii2-seo "*"
+composer require zhukovsergei/yii2-seo
 ```
 
 или добавить
 
 ```
-"aquy/yii2-seo": "*"
+"zhukovsergei/yii2-seo": "*"
 ```
 
 в раздел require ващего `composer.json`.
